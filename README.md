@@ -4,6 +4,8 @@ The rules remain the same as the original game: Rock beats scissors, Scissors be
 
 Rock, paper, scissors is an example of a zero-sum game without perfect information. Whenever one player wins, the other loses. We can express this game using a payoff matrix that explains what one player gains with each strategy the players use. In the payoff matrix below, the rows represent player 1's possible strategies while the columns represent player 2's possible strategies. 1 represents a win for player 1, 0 a tie, and -1 a loss for player 1.
 
+Rock paper scissors is often used as a fair choosing method between two people, similar to coin flipping, drawing straws, or throwing dice in order to settle a dispute or make an unbiased group decision. Unlike truly random selection methods, however, rock paper scissors can be played with a degree of skill by recognizing and exploiting non-random behavior in opponents
+
 ## Features
 1. A fun online Rock Paper Scissors game
 2. Play against your friends or strangers
